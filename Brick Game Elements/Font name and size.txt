@@ -1,0 +1,6 @@
+Font used for numeric values: 
+Nexa Bold
+
+Font size:-
+	value of level: 66px
+	value of score: 120px
